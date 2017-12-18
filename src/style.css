@@ -1,4 +1,10 @@
+@font-face {
+    font-family: 'IndieFlower';
+    src: url('./IndieFlower.ttf') format('truetype');
+}
+
 .hello {
     color: red;
+    font-family: 'IndieFlower';
     background: url('./icon.png');
 }
